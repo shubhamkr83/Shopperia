@@ -36,46 +36,40 @@
 
 # Technology Used:-
 <ul>
-<li>NodeJs</li>
-<li>Express</li>
-<li>MongoDB</li>
-<li>EJS</li>
-<li>Tailwind CSS</li>
-<li>SASS</li>
-<li>Passportjs (passport-local)</li>
+<li>React</li>
+<li>React-icons</li>
+<li>React-router-dom</li>
+<li>Styled-components</li>
 <li>Axios</li>
-<li>Bcrypt</li>
-<li>express-ejs-layouts</li>
-<li>express-flash</li>
-<li>express-session</li>
+<li>Auth0</li>
 </ul>
 
 
 # Project Screenshot:- </h2>
-<h3>Hero Section</h3>
+<h3>Home Page</h3>
 
-![Screenshot (333)](https://github.com/shubhamkr83/Foodie-WebApp/assets/72254047/56eb1756-df78-4285-b138-e216ee34b385)
-
-<h3>All Food Items</h3>
-
-![Screenshot (334)](https://github.com/shubhamkr83/Foodie-WebApp/assets/72254047/d34e0cb1-334a-4c84-a9e0-23a62ac2e4d5)
+![Home Page](https://github.com/shubhamkr83/Shopperia/assets/72254047/ef32cdc5-e7ca-47b4-9da4-a4381940e714)
 
 
-<h3>Cart Page</h3>
+<h3>Product Page</h3>
 
-![Screenshot (337)](https://user-images.githubusercontent.com/72254047/232264866-eaacc611-fa6e-4784-95f3-0811d71639d7.png)
+![Product Page](https://github.com/shubhamkr83/Shopperia/assets/72254047/a8909e16-db1c-4754-8776-6020556f3c8f)
 
-<h3>Register Page</h3>
 
-![Screenshot (335)](https://user-images.githubusercontent.com/72254047/232264894-22330503-6413-483a-b2f1-1b0fc4cceb90.png)
+<h3>Contact Page</h3>
 
-<h3>Customer Realtime Food Tracker Page</h3>
+![Contact](https://github.com/shubhamkr83/Shopperia/assets/72254047/fd83c972-6106-40e5-96fc-984672f204da)
 
-![Screenshot (338)](https://user-images.githubusercontent.com/72254047/232264926-3e7011d0-1a0f-492e-8aeb-886826e9e403.png)
 
-<h3>Admin Page</h3>
+<h3>Add to cart Page</h3>
 
-![Screenshot (339)](https://user-images.githubusercontent.com/72254047/232266233-f972e5be-3e3f-4416-a744-5ea8ac2f880f.png)
+![Add to cart](https://github.com/shubhamkr83/Shopperia/assets/72254047/47b75441-1bbf-4262-a852-2fd869c276d1)
+
+
+<h3>About Us Page</h3>
+
+![About Us](https://github.com/shubhamkr83/Shopperia/assets/72254047/b9052cc0-5c7c-430d-b61c-bb6336f6d038)
+
 
 
 <h2>Folder Structure:-</h2>
