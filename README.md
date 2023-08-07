@@ -48,7 +48,8 @@
 # Project Screenshot:- </h2>
 <h3>Home Page</h3>
 
-![Home Page](https://github.com/shubhamkr83/Shopperia/assets/72254047/ef32cdc5-e7ca-47b4-9da4-a4381940e714)
+![Home Page](https://github.com/shubhamkr83/Shopperia/assets/72254047/48eb8380-0614-4fe8-a393-157fd2fda1e7)
+
 
 
 <h3>Product Page</h3>
