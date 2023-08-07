@@ -90,7 +90,6 @@
 │       ├── Footer.jsx
 │       ├── GridView.jsx
 │       ├── Header.css
-│       ├── App.jsx
 │       ├── HeroSection.jsx
 │       ├── ListView.jsx
 │       ├── MyImage.jsx 
@@ -98,8 +97,9 @@
 │       ├── PageNavigation.jsx
 │       ├── Product.jsx
 │       ├── ProductList.jsx
-│       ├── Services.css
-│       ├── Sort.jsx 
+│       ├── Services.jsx
+│       ├── Sort.jsx
+│       ├── Star.jsx
 │       ├── Trusted.jsx 
 │   ├── context
 │       ├── cart_context.jsx
@@ -111,7 +111,7 @@
 │       ├── productReducer.jsx 
 │   ├── styles
 │       ├── Button.jsx 
-│       ├── container.jsx 
+│       ├── Container.jsx 
 │   ├── About.jsx
 │   ├── App.css
 │   ├── App.jsx
