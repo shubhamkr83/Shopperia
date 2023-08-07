@@ -76,69 +76,56 @@
 <h2>Folder Structure:-</h2>
 <pre>
 .
-├── app
-│   ├── config
-|       └── passport.js
-│   ├── http
-│       ├── controllers
-│           ├── admin
-│               ├── orderController.js
-│               └── statusController.js
-│           ├── customers
-│               ├── cartController.js
-│               └── orderController.js
-│           ├── authController.js
-│           └── homeController.js
-│       └── middlewares 
-│           ├── admin.js
-│           ├── auth.js
-│           └── guest.js
-│   └── models
-│       ├── menu.js
-│       ├── order.js
-│       └── user.js 
-├── public     
-│   ├── css
-│       └── app.css
-│   ├── img
-│   └── js
-│       ├── app.js
-│       └── app.js.LICENCE.txt
-├── resources 
-│   ├── js
-│       ├── CardWidget.js
-│       ├── admin.js
-│       ├── apiService.js
-│       ├── app.js
-│       └── stripe.js
-│   ├── scss
-│       ├── _varible.scss
-│       └── app.scss
-│   └── views
-│       ├── admin.js
-│           └── orders.ejs
-│       ├── auth
-│           ├── login.ejs
-│           └── register.ejs
-│       ├── customers
-│           ├── cart.ejs
-│           ├── orders.ejs
-│           └── singleOrder.ejs
-│       ├── errors
-│           └── 404.ejs
-│       ├── home.ejs
-│       └── layout.ejs
-├── routes
-│   ├── api.js
-│   └── web.js
+├── public
+├── src
+│   ├── Helpers
+│   ├── assets
+│   ├── components
+│       ├── AddToCart.jsx
+│       ├── CartAmountToggle.jsx
+│       ├── CartItem.jsx
+│       ├── FeatureProduct.jsx
+│       ├── FilterSection.jsx
+│       ├── Footer.jsx
+│       ├── GridView.jsx
+│       ├── Header.css
+│       ├── App.jsx
+│       ├── HeroSection.jsx
+│       ├── ListView.jsx
+│       ├── MyImage.jsx 
+│       ├── Nav.jsx
+│       ├── PageNavigation.jsx
+│       ├── Product.jsx
+│       ├── ProductList.jsx
+│       ├── Services.css
+│       ├── Sort.jsx 
+│       ├── Trusted.jsx 
+│   ├── context
+│       ├── cart_context.jsx
+│       ├── filter_contect.jsx 
+│       ├── productcontext.jsx 
+│   ├── reducer
+│       ├── cartReducer.jsx
+│       ├── filterReducer.jsx 
+│       ├── productReducer.jsx 
+│   ├── styles
+│       ├── Button.jsx 
+│       ├── container.jsx 
+│   ├── About.jsx
+│   ├── App.css
+│   ├── App.jsx
+│   ├── Cart.jsx
+│   ├── Contact.jsx
+│   ├── ErrorPage.jsx 
+│   ├── GlobalStyle.jsx
+│   ├── Home.jsx
+│   ├── Product.jsx
+│   ├── SingleProduct.jsx
+│   ├── index.css
+│   ├── main.jsx 
 ├── .gitignore           
-├── menus.json
-├── mix-manifest.json                  
-├── package-lock.json                   
-├── package          
-├── server.js
-├── webpack.mix.js                
-├── yarn-error.log                 
+├── index.html                  
+├── package.json                   
 ├── yarn.lock                 
 └── README.md
 </pre>
