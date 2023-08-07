@@ -79,6 +79,7 @@
 ├── public
 ├── src
 │   ├── Helpers
+│       ├── FormatPrice.jsx
 │   ├── assets
 │   ├── components
 │       ├── AddToCart.jsx
