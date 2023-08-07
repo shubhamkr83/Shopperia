@@ -1,16 +1,18 @@
 # Foodie-WebApp
-<h2>Created and deployed a fully functional & fully responsive E-Commerce web application using Reactjs for the front-end & Styled Components for styling. Integrated all the important features such as add to cart, search product, filter the product from the (category, company, price), login/logout, and a contact form that sends the data to the owner's email application. Executed all the API calls using Axios, and authenticate the user with Auth0</h2>
+<p>Created and deployed a fully functional & fully responsive E-Commerce web application using Reactjs for the front-end & Styled Components for styling. Integrated all the important features such as add to cart, search product, filter the product from the (category, company, price), login/logout, and a contact form that sends the data to the owner's email application. Executed all the API calls using Axios, and authenticate the user with Auth0.</p>
 
 <h3>Live Project:- https://shopperia.netlify.app </h3>
 
-<h2>Features:-</h2>
+# Features:-
 <ol>
     <li>Login and Registration</li>   
-    <li>Select a product</li>
+    <li>Dynamic Routing</li>
     <li>Add to cart</li>
+    <li>Cart Quantity Toggle</li>
+    <li>Contact Form</li>
     <li>Filter the products by:-</li> 
         <ol>
-          <li>Search filter</li>
+          <li>Search Filter</li>
           <li>Change Layout</li>
           <li>Pricing:- </li>
           <ol>
@@ -22,15 +24,17 @@
             <li>A to Z</li>
             <li>Z to A</li>
           </ol>
+             <li>Catagory Filter</li>
+        <li>Company Filter</li>
+        <li>Color Filter</li>
+        <li>Price Range Filter</li>
+        <li>Clear Filter</li>
         </ol>
-    <li>Catagory filter</li>
-        <ol>
-            <li>Real time web socket private connections</li>
-        </ol>
+    
 </ol>
 
 
-<h2>Technology Used:-</h2>
+# Technology Used:-
 <ul>
 <li>NodeJs</li>
 <li>Express</li>
@@ -47,7 +51,7 @@
 </ul>
 
 
-<h2>Project Screenshot:- </h2>
+# Project Screenshot:- </h2>
 <h3>Hero Section</h3>
 
 ![Screenshot (333)](https://github.com/shubhamkr83/Foodie-WebApp/assets/72254047/56eb1756-df78-4285-b138-e216ee34b385)
