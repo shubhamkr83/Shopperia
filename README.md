@@ -1,4 +1,4 @@
-# Foodie-WebApp
+# Shopperia-Ecomm-WebApp
 <p>Created and deployed a fully functional & fully responsive E-Commerce web application using Reactjs for the front-end & Styled Components for styling. Integrated all the important features such as add to cart, search product, filter the product from the (category, company, price), login/logout, and a contact form that sends the data to the owner's email application. Executed all the API calls using Axios, and authenticate the user with Auth0.</p>
 
 <h3>Live Project:- https://shopperia.netlify.app </h3>
@@ -45,7 +45,7 @@
 </ul>
 
 
-# Project Screenshot:- </h2>
+# Project Screenshots:- </h2>
 <h3>Home Page</h3>
 
 ![Home Page](https://github.com/shubhamkr83/Shopperia/assets/72254047/48eb8380-0614-4fe8-a393-157fd2fda1e7)
