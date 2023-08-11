@@ -79,7 +79,7 @@
 ├── public
 ├── src
 │   ├── Helpers
-│       ├── FormatPrice.jsx
+│       └──  FormatPrice.jsx
 │   ├── assets
 │   ├── components
 │       ├── AddToCart.jsx
@@ -100,18 +100,18 @@
 │       ├── Services.jsx
 │       ├── Sort.jsx
 │       ├── Star.jsx
-│       ├── Trusted.jsx 
+│       └──  Trusted.jsx 
 │   ├── context
 │       ├── cart_context.jsx
 │       ├── filter_contect.jsx 
-│       ├── productcontext.jsx 
+│       └──  productcontext.jsx 
 │   ├── reducer
 │       ├── cartReducer.jsx
 │       ├── filterReducer.jsx 
-│       ├── productReducer.jsx 
+│       └──  productReducer.jsx 
 │   ├── styles
 │       ├── Button.jsx 
-│       ├── Container.jsx 
+│       └──  Container.jsx 
 │   ├── About.jsx
 │   ├── App.css
 │   ├── App.jsx
@@ -123,7 +123,7 @@
 │   ├── Product.jsx
 │   ├── SingleProduct.jsx
 │   ├── index.css
-│   ├── main.jsx 
+│   └──  main.jsx 
 ├── .gitignore           
 ├── index.html                  
 ├── package.json                   
